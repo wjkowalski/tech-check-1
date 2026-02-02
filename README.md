@@ -12,7 +12,7 @@ Create a JavaScript application that will convert a *PhoneWord* or Vanity Number
 
 The image below shows the keypad you will be emulating:
 
-<img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/2560px-Telephone-keypad2.svg.png" alt="dialpad">
+<img width="400px" src="/Telephone-keypad2.svg.png" alt="dialpad">
 
 **Note:** in North America, the alphabet begins with the number 2 on the keypad. You have been provided with starter code in this repository (index.html and main.js). The code that you are asked to write should go in the function indicated called *convertPhoneWord*. The script will execute a *testCode()* function that will test your code.  Errors will be written to the console until your code is sufficient implemented. **Do not write any code outside of the area indicated.**
 
